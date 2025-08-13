@@ -1,2 +1,25 @@
+# Python virtual environments
 venv/
+.venv/
 
+# Streamlit and Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+model/
+*.h5
+
+# Sample images
+sample_images/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# OS generated
