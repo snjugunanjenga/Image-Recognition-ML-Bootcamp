@@ -80,6 +80,6 @@ This project demonstrates my practical skills in deep learning, my ability to cr
 
 ### Contact
 
-Feel free to connect on [LinkedIn](#https://www.linkedin.com/in/simon-njuguna-692557104/)
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/simon-njuguna-692557104/)
 
 Ready to bring deep learning
