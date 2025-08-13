@@ -34,7 +34,26 @@ Image Recognition 5 Days Bootcamp is a hands-on, project-based journey into mode
 ```bash
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
-# Open the notebook in Jupyter or Colab
+```
+
+#### Create and activate a Python virtual environment (Ubuntu)
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+#### Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+#### Run the Streamlit app to test the model
+```bash
+streamlit run app.py
+```
+Then open the provided local URL in your browser, or use:
+```bash
+$BROWSER http://localhost:8501
 ```
 
 ---
@@ -82,4 +101,4 @@ This project demonstrates my practical skills in deep learning, my ability to cr
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/simon-njuguna-692557104/)
 
-Ready to bring deep learning
+Ready to bring deep learning to your
