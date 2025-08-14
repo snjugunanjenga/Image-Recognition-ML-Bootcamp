@@ -15,6 +15,10 @@ Image Recognition 5 Days Bootcamp is a hands-on, project-based journey into mode
 - **Day 5 (suggested):** Model evaluation, ROC/AUC, deployment tips  
 
 ---
+### How to Run
+
+**Live Demo:**  
+[Try the deployed model here](https://image-recognition-ml-app.streamlit.app/)
 
 ### Why This Project?
 
